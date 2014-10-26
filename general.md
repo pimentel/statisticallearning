@@ -6,5 +6,5 @@
 
 ## Applications
 
- - Beck, King, and Zheng, *American Political Science Review*, 2000, "[Improving quantitative studies of international conflict: A conjecture](http://zmjones.com/static/papers/beck-apsr-2000.pdf)"
+ - Beck, King, and Zheng, *American Political Science Review*, 2000, "[Improving quantitative studies of international conflict: A conjecture](http://zmjones.com/static/statistical-learning/beck-apsr-2000.pdf)"
  - Hill and Jones, *American Political Science Review*, 2014, "[An Empirical Evaluation of Explanations for State Repression](http://zmjones.com/static/papers/eeesr_manuscript.pdf)"
