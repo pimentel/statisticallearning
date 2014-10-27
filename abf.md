@@ -19,5 +19,7 @@
  - Strobl, Malley, Tutz, *Psychological Methods*, 2009, "[An introduction to recursive partitioning: rationale, application, and characteristics of classification and regression trees, bagging, and random forests](http://zmjones.com/static/statistical-learning/strobl-bmcb-2009.pdf)"
  - Strobl, Boulesteix, Zeileis, and Hothorn, *BMC Bioinformatics*, 2007, "[Bias in random forest variable importance measures: Illustrations, sources and a solution](http://zmjones.com/static/statistical-learning/strobl-bmcb-2007.pdf)"
  - Hajjem, Bellavance, and Larocque, *Journal of Computational and Graphical Statisitics*, 2014, "[Mixed-effects random forest for clustered data](http://zmjones.com/static/statistical-learning/hajjem-jcgs-2014.pdf)"
+ - Louppe, Wehenkel, Sutera, and Geurts, *Advances in Neural Information Processing Systems*, 2013, "[Understanding variable importances in forests of randomized trees](http://zmjones.com/static/statistical-learning/louppe-nips-2013.pdf)"
+ - Louppe, *Arxiv*, 2014, "[Understanding Random Forests: From Theory to Practice](http://arxiv.org/pdf/1407.7502v1.pdf)"
 
 ## Feed-forward Neural Networks
