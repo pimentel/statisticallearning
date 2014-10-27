@@ -3,10 +3,12 @@
 ## Generalized Additive Models
 
  - Beck, King, and Zeng, *American Journal of Political Science*, 1998, "[Beyond linearity by default: Generalized additive models](http://zmjones.com/static/statistical-learning/beck-ajps-1998.pdf)"
+ - Kenkel and Signorino, *Working Paper*, 2013, "[Bootstrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation](http://bkenkel.com/data/basics.pdf)"
 
 ## Classification and Regression Trees
 
  - Hothorn, Hornik, and Zeileis, *Journal of Computational and Graphical Statistics*, 2006, "[Unbiased recursive partitioning: A conditional inference framework](http://zmjones.com/static/statistical-learning/hothorn-jcgs-2006.pdf)"
+ - Breiman, *Machine Learning*, 1996, "[Bagging Predictors](http://zmjones.com/static/statistical-learning/breiman-ml-1996.pdf)"
 
 ## Random Forests
 
