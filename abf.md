@@ -5,6 +5,12 @@
  - Beck, King, and Zeng, *American Journal of Political Science*, 1998, "[Beyond linearity by default: Generalized additive models](http://zmjones.com/static/statistical-learning/beck-ajps-1998.pdf)"
  - Kenkel and Signorino, *Working Paper*, 2013, "[Bootstrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation](http://bkenkel.com/data/basics.pdf)"
 
+## Boosting
+
+ - Freidman, Hastie, and Tibsharani, *The Annals of Statistics*, 2000, "[Additive Logistic Regression: A Statistical View of Boosting](http://projecteuclid.org/download/pdf_1/euclid.aos/1016218223)"
+ -  Buhlmann and Hothorn, *Statistical Science*, 2007, "[Boosting Algorithms: Regularization, Prediction, and Model Fitting](http://www.statistik.lmu.de/institut/ag/biostat/vorlesungen/SS10/BAA/Literatur/Boosting_StatisticalScience.pdf)"
+ - Freidman, *The Annals of Statistics*, 2001, "[Greedy Function Approximation: A Gradient Boosting Machine](http://projecteuclid.org/download/pdf_1/euclid.aos/1013203451)"
+
 ## Classification and Regression Trees
 
  - Hothorn, Hornik, and Zeileis, *Journal of Computational and Graphical Statistics*, 2006, "[Unbiased recursive partitioning: A conditional inference framework](http://zmjones.com/static/statistical-learning/hothorn-jcgs-2006.pdf)"
@@ -25,3 +31,5 @@
  - Louppe, *Arxiv*, 2014, "[Understanding Random Forests: From Theory to Practice](http://arxiv.org/pdf/1407.7502v1.pdf)"
 
 ## Feed-forward Neural Networks
+
+ - Hornik, *Neural Networks*, 1991, "[Approximation Capabilities of Muitilayer Feedforward Networks](http://zmjones.com/static/statistical-learning/hornik-nn-1991.pdf)"
